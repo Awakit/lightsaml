@@ -1,5 +1,5 @@
 {
-    "name": "aerialship/lightsaml",
+    "name": "awakit/lightsaml",
     "license": "MIT",
     "description": "Light SAML2 php library",
     "autoload": {
